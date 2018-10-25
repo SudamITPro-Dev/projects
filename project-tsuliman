@@ -1,10 +1,27 @@
-This is my project suggestion page 
-1. Prject 1  developing an opensource  invoice management system 
+This is my project's suggestion page 
+
+1. Prject 1  developing an open source  invoice management system 
 2. Project 2 developing  an open source statement management system 
+3. Project 3 developing an open source GDPR scanner for websites to ensure compoliancy by GDOR regulation
 
-Framework 
 
-codeigniter or laravel
+Framework Suggestions 
+
+1. codeigniter 
+2. Laravel 
+
 
 along with  Bootstrap 
 
+
+
+1. Prject 1  developing an open source  invoice management system 
+
+
+ - Login Page 
+ -  Account Page 
+  - Admin Page 
+  - Regular User Page 
+ - Dash Board & Report  Page 
+ - Form Page
+ - ....
